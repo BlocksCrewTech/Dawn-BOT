@@ -24,7 +24,7 @@ Dawn Validator BOT is an automated tool designed to manage Dawn Validator nodes 
 
 **🔗 Get Started:** [Register on Dawn Validator](https://dashboard.dawninternet.com/signup)
 
-> **Referral Code:** Use code `VCDXB2W3` during registration for benefits!
+> **Referral Code:** Use code `7T37VOT4` during registration for benefits!
 
 **📥 Extension:** [Download Chrome Extension](https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp?hl=en)
 
